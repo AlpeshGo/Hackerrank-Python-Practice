@@ -9,3 +9,4 @@ This Repo contains Hackerrank Python Practice exercise
 | 4. | [List Comprehension](https://github.com/AlpeshGo/Hackerrank-Python-Practice/blob/main/List%20Comprehensions) | range function |
 | 5. | [Find the Runner-Up Score!](https://github.com/AlpeshGo/Hackerrank-Python-Practice/blob/main/Find%20the%20Runner-Up%20Score!) | Find 2nd highest score |
 | 6. | [Find the 2nd lowest score!](https://github.com/AlpeshGo/Hackerrank-Python-Practice/commit/b5d72e63d61d7c617dbc1ac6dd7067a5180e906f) | dictionary and for loop |
+| 7. | [sWAP fUNCTION](https://github.com/AlpeshGo/Hackerrank-Python-Practice/commit/19811260a7cc772b0fee7f7aa3d91feb2e461f58) | upper and lower function |
